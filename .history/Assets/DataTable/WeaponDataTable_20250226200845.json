@@ -1,0 +1,15 @@
+{
+    "Weapons": 
+    [
+        { "WeaponID": 0, 
+          "Weaponname": "Arrow", 
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Ballista",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Ballista_OnlyModel",
+          "Cost": 20,
+          "WeaponATK": 10,
+          "WeaponATKSpeed": 0.25
+        }
+
+
+    ]
+}
