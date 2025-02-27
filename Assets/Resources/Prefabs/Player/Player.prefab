@@ -52,8 +52,7 @@ MonoBehaviour:
   Text_Gold: {fileID: 0}
   Text_HP: {fileID: 0}
   PlayerGold: 100
-  PlayerHP: 3
-  csvFile: {fileID: 0}
+  PlayerHP: 50
 --- !u!114 &4153728917642648060
 MonoBehaviour:
   m_ObjectHideFlags: 0

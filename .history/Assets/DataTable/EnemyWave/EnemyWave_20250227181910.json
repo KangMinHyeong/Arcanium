@@ -1,0 +1,28 @@
+{
+    "Waves": 
+    [
+        { "WaveGroupID": 0, 
+          "WaveNum": 1, 
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Enemy",
+          "EnemyNumber": 1,
+          "WaveRate" : 1.0,
+          "NextWaveTime": 5.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 1, 
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Enemy",
+          "EnemyNumber": 3,
+          "WaveRate" : 0.3,
+          "NextWaveTime": 0.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 2, 
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Enemy",
+          "EnemyNumber": 3,
+          "WaveRate" : 1.0,
+          "NextWaveTime": 5.0
+        }
+    ]
+}

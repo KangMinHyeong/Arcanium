@@ -1,0 +1,38 @@
+{
+    "Waves": 
+    [
+        { "EnemyID": 0, 
+          "EnemyName": "Macha", 
+          "EnemyHP" : 0,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 0.75,
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 1, 
+          "EnemyID" : 1,
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Enemy_Test",
+          "EnemyNumber": 1,
+          "WaveRate" : 1.25,
+          "NextWaveTime": 0.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 2, 
+          "EnemyID" : 0,
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Enemy",
+          "EnemyNumber": 3,
+          "WaveRate" : 1.0,
+          "NextWaveTime": 5.0
+        },
+
+        { "WaveGroupID": 1, 
+          "WaveNum": 2, 
+          "EnemyID" : 1,
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Enemy_Test",
+          "EnemyNumber": 5,
+          "WaveRate" : 1.0,
+          "NextWaveTime": 5.0
+        }
+    ]
+}

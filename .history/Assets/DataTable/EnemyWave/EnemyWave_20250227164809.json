@@ -1,0 +1,11 @@
+{
+    "Waves": 
+    [
+        { "WaveGroupID": 0, 
+          "WaveNum": 0, 
+          "EnemyPrefabPath": "",
+          "EnemyNumber": 40,
+          "NextWaveTime": 0.5
+        }
+    ]
+}
