@@ -1,0 +1,11 @@
+{
+    "Waves": 
+    [
+        { "EnemyID": 0, 
+          "EnemyName": "Macha", 
+          "EnemyHP" : 0,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 0.75,
+        }
+    ]
+}

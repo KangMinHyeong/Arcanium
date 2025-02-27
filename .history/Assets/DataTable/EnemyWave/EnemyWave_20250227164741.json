@@ -1,0 +1,13 @@
+{
+    "Waves": 
+    [
+        { "WaveGroupID": 0, 
+          "WaveNum": 0, 
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Ballista",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Ballista_OnlyModel",
+          "Cost": 40,
+          "WeaponATK": 10,
+          "WeaponATKSpeed": 0.5
+        }
+    ]
+}

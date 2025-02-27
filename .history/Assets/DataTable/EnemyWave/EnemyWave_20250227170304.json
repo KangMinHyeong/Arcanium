@@ -1,0 +1,19 @@
+{
+    "Waves": 
+    [
+        { "WaveGroupID": 0, 
+          "WaveNum": 1, 
+          "EnemyPrefabPath": "Assets/Resources/Prefabs/Models/Enemy/Enemy.prefab",
+          "EnemyNumber": 3,
+          "NextWaveTime": 5
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 2, 
+          "EnemyPrefabPath": "Assets/Resources/Prefabs/Models/Enemy/Enemy.prefab",
+          "EnemyNumber": 3,
+          "WaveRate" : 1.0,
+          "NextWaveTime": 5.0
+        }
+    ]
+}

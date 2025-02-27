@@ -1,0 +1,23 @@
+using UnityEngine;
+using System;
+using System.Collections.Generic;
+
+[Serializable] 
+public struct EnemyWaveData
+{
+    public int WaveGroupID;
+
+    public int WaveNum;
+
+    public string EnemyPrefabPath;
+
+    public int EnemyNumber;
+
+    public float NextWaveTime;
+}
+
+[Serializable]
+public struct EnemyWaveDatabase
+{
+    public List<EnemyWaveData> Waves;
+}
