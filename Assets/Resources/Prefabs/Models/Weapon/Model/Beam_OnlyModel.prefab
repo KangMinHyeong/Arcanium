@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3049131714819384361}
   m_Layer: 2
-  m_Name: Ballista_OnlyModel
+  m_Name: Beam_OnlyModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -366,7 +366,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2219426613374379999, guid: 0e949702688449445af836f5dca7aef4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 2219426613374379999, guid: 0e949702688449445af836f5dca7aef4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -407,7 +407,7 @@ PrefabInstance:
     - target: {fileID: 4423084719394598372, guid: 0e949702688449445af836f5dca7aef4, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 3de139540ea23e247bb61f45bdc552f7, type: 3}
+      objectReference: {fileID: 21300000, guid: 5822381e0eb26da46b344297f42a09d6, type: 3}
     - target: {fileID: 4423084719394598372, guid: 0e949702688449445af836f5dca7aef4, type: 3}
       propertyPath: m_Color.a
       value: 0.39215687
@@ -427,6 +427,26 @@ PrefabInstance:
     - target: {fileID: 6589430892750072794, guid: 0e949702688449445af836f5dca7aef4, type: 3}
       propertyPath: m_Name
       value: Range
+      objectReference: {fileID: 0}
+    - target: {fileID: 8887196476446283163, guid: 0e949702688449445af836f5dca7aef4, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8887196476446283163, guid: 0e949702688449445af836f5dca7aef4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8887196476446283163, guid: 0e949702688449445af836f5dca7aef4, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8887196476446283163, guid: 0e949702688449445af836f5dca7aef4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8887196476446283163, guid: 0e949702688449445af836f5dca7aef4, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
