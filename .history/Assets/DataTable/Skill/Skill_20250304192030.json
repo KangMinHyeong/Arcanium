@@ -1,0 +1,12 @@
+{
+    "Skills": 
+    [
+        { "SkillID": 0, 
+          "SkillName": "Meteor",
+          "SkillPrefabPath" : "Prefabs/Player/Skill/Meteor",
+          "SkillDamage": 25, 
+          "SkillRange" : 15.0,
+          "SkillCoolTime": 5.0
+        }
+    ]
+}

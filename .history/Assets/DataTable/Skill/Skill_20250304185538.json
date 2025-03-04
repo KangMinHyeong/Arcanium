@@ -1,0 +1,11 @@
+{
+    "Skills": 
+    [
+        { "SkillID": 0, 
+          "SkillName": "Meteor",
+          "SkillDamage": 25, 
+          "SkillRange" : 5.0,
+          "SkillCoolTime": 5.0
+        }
+    ]
+}

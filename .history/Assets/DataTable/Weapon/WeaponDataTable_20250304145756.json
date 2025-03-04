@@ -1,0 +1,43 @@
+{
+    "weapons": 
+    [
+        { "WeaponID": 0, 
+          "Weaponname": "Arrow", 
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Arrow",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Arrow_OnlyModel",
+          "Cost": 40,
+          "EnhanceCostLevel_2": 20,
+          "EnhanceCostLevel_3": 30,
+          "WeaponATK": 10,
+          "WeaponATKSpeed": 2.0,
+          "WeaponRange": 13.0,
+          "WeaponRotation": true
+        },
+
+        { "WeaponID": 1, 
+          "Weaponname": "Beam", 
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Beam",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Beam_OnlyModel",
+          "Cost": 40,
+          "EnhanceCostLevel_2": 20,
+          "EnhanceCostLevel_3": 30,
+          "WeaponATK": 2,
+          "WeaponATKSpeed": 0.5,
+          "WeaponRange": 25.0,
+          "WeaponRotation": false
+        },
+
+        { "WeaponID": 2, 
+          "Weaponname": "Rolling", 
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Rolling",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Rolling_OnlyModel",
+          "Cost": 30,
+          "EnhanceCostLevel_2": 20,
+          "EnhanceCostLevel_3": 30,
+          "WeaponATK": 2,
+          "WeaponATKSpeed": 2,
+          "WeaponRange": 12.5,
+          "WeaponRotation": true
+        }
+    ]
+}

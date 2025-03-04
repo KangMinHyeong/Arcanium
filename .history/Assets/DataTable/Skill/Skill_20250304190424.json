@@ -1,0 +1,12 @@
+{
+    "Skills": 
+    [
+        { "SkillID": 0, 
+          "SkillName": "Meteor",
+          "SkillPrefabPath" : "sdf",
+          "SkillDamage": 25, 
+          "SkillRange" : 5.0,
+          "SkillCoolTime": 5.0
+        }
+    ]
+}

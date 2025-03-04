@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2926625737932725098}
   - component: {fileID: 704907446612009807}
   - component: {fileID: 5850223867495754185}
-  m_Layer: 6
+  m_Layer: 2
   m_Name: Enemy
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -71,7 +71,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4983096630942049726}
   - component: {fileID: 206566222968181721}
-  m_Layer: 6
+  m_Layer: 2
   m_Name: Model
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -128,7 +128,7 @@ GameObject:
   - component: {fileID: 3362956197296576134}
   - component: {fileID: 7252939607442692432}
   - component: {fileID: 6653197079485931988}
-  m_Layer: 6
+  m_Layer: 2
   m_Name: HPUI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -230,7 +230,7 @@ GameObject:
   - component: {fileID: 8903283811265680328}
   - component: {fileID: 9042988717594664212}
   - component: {fileID: 374502663493187344}
-  m_Layer: 6
+  m_Layer: 2
   m_Name: UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -291,7 +291,7 @@ GameObject:
   - component: {fileID: 992090187941176082}
   - component: {fileID: 3177480584725448154}
   - component: {fileID: 1497803130797412219}
-  m_Layer: 6
+  m_Layer: 2
   m_Name: Imgae_HP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -366,7 +366,7 @@ GameObject:
   - component: {fileID: 1772176894589886007}
   - component: {fileID: 1312469745578480811}
   - component: {fileID: 8911535494081353205}
-  m_Layer: 6
+  m_Layer: 2
   m_Name: Imgae_BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -496,7 +496,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0eaf0955d0035664c87a3d4177a41887, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0eaf0955d0035664c87a3d4177a41887, type: 3}
       propertyPath: m_TagString
@@ -504,7 +504,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8164078558771037576, guid: 0eaf0955d0035664c87a3d4177a41887, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

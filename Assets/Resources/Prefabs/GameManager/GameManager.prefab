@@ -239,4 +239,5 @@ MonoBehaviour:
   EnemyDataTable: {fileID: 4900000, guid: 0548c55b7c9bf5c4e89941d95ed488f1, type: 3}
   StageDataTable: {fileID: 4900000, guid: 28566fd49ae42a24aa2dd4b070e5cefb, type: 3}
   WeaponDataTable: {fileID: 4900000, guid: 853c7b7c78c77004bb57218613edd9dd, type: 3}
+  SkillDataTable: {fileID: 4900000, guid: ae87fb64f289b7943add722b4ea7d7cb, type: 3}
   LoadingUI: {fileID: 8491149151305641314}
