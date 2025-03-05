@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d810a037bf025274dbf7944576b1000b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/portal/enemies_portal.prefab
+  uploadId: 722202

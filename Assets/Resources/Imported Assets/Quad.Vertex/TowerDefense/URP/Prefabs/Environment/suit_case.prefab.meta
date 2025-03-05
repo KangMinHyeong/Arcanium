@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23f826110e0937442be30d8766424221
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/suit_case.prefab
+  uploadId: 722202

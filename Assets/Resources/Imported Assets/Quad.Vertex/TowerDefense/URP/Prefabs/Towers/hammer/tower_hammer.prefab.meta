@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f6cdda99ecec0a4a98160b1be083def
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/hammer/tower_hammer.prefab
+  uploadId: 722202

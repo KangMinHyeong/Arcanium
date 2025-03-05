@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d45801a66537b6848943f61f3d3857f6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/line_switcher_base.prefab
+  uploadId: 722202

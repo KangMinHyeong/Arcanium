@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a141eb33b25ad04479e2234edbbcdd30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Enemies/flying_enemy_baloon.prefab
+  uploadId: 722202

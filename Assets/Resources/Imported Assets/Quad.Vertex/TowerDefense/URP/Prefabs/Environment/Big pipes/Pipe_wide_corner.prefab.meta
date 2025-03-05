@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d36036896126ed74cac46dea6ab17615
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Big pipes/Pipe_wide_corner.prefab
+  uploadId: 722202

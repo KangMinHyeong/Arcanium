@@ -1,0 +1,22 @@
+{
+    "EnemyInfos": 
+    [
+        { "EnemyID": 0, 
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Basic",
+          "EnemyName": "Basic", 
+          "EnemyHP" : 30,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 0.75,
+          "EnemyGold" : 5
+        },
+
+        { "EnemyID": 1, 
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Fast",
+          "EnemyName": "Fast", 
+          "EnemyHP" : 500,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 1.75,
+          "EnemyGold" : 20
+        }
+    ]
+}

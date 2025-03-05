@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81540354c235d8942889f7934b1cbad7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Stones/stones_pile_3.prefab
+  uploadId: 722202

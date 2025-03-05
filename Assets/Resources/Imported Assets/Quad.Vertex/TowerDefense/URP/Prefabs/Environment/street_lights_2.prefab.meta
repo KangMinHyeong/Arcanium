@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28d86a82894458c46a3870d493acf08a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/street_lights_2.prefab
+  uploadId: 722202

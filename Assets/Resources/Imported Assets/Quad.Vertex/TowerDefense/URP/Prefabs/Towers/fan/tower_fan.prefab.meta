@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: add79194806ccd84696ce0ee4d0e565a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/fan/tower_fan.prefab
+  uploadId: 722202

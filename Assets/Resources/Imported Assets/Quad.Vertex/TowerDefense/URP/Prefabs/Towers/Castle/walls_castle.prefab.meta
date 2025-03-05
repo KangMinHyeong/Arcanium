@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ac6b458cd8bf564d94c468da2e8c973
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/Castle/walls_castle.prefab
+  uploadId: 722202

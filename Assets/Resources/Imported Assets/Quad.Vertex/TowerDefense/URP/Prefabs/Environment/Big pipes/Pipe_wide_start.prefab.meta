@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1eec25e8cbf647141bbc25d28a8ffb52
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Big pipes/Pipe_wide_start.prefab
+  uploadId: 722202

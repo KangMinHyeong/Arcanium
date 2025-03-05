@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 223e2e8a393cc9849918ca849e14e5a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/spiderNest/spider_bot.prefab
+  uploadId: 722202

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a331cad964315e644a72081cd321d537
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/cannon/building_2.prefab
+  uploadId: 722202

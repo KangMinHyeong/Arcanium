@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38ea1c045291a2f4c806f99893c95efc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Gear_4.prefab
+  uploadId: 722202
