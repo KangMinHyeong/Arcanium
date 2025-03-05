@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5eb92af613885043b3fa6eddf3360a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Small pipes/S_pipes_prefab1.prefab
+  uploadId: 722202

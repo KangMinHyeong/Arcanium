@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1df431462198b304eaed5aa44600a3a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Tiles/tile_bridge_road_middle.prefab
+  uploadId: 722202

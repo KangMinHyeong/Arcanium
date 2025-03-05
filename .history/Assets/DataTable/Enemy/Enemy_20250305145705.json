@@ -1,0 +1,22 @@
+{
+    "EnemyInfos": 
+    [
+        { "EnemyID": 0, 
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Basic",
+          "EnemyName": "Basic", 
+          "EnemyHP" : 30,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 0.75,
+          "EnemyGold" : 5
+        },
+
+        { "EnemyID": 1, 
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Enemy_Test",
+          "EnemyName": "Macha_2", 
+          "EnemyHP" : 500,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 0.25,
+          "EnemyGold" : 20
+        }
+    ]
+}

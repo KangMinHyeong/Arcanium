@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf26e0826a55dff48ab247f024f498b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Enemies/swarm_enemy_1.prefab
+  uploadId: 722202

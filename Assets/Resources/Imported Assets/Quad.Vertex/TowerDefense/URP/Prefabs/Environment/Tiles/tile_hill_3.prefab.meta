@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93945d7abfad1df4a8199029056dd1ce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Tiles/tile_hill_3.prefab
+  uploadId: 722202

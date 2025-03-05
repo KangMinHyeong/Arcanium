@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc08a7f2b8d6af6449e751376e36dc29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Stones/stone_floating_4.prefab
+  uploadId: 722202

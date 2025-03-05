@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0acdcea474b16be4cbb4631c96a36c81
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/machineGun/tower_machinegun.prefab
+  uploadId: 722202

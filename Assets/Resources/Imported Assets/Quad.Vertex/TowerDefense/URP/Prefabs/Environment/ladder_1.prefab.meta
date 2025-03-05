@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29489ca7215e9a846a7b2a37592248b3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/ladder_1.prefab
+  uploadId: 722202

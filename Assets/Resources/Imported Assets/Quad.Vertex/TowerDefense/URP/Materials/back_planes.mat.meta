@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b0a25e1c0f45c646948c12b979c4374
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Materials/back_planes.mat
+  uploadId: 722202

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cf5385c1c5ec3e4b881012fba27c2e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Enemies/stealth_enemy.prefab
+  uploadId: 722202

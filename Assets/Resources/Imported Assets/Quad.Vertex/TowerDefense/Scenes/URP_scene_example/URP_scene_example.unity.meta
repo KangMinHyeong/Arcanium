@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16ede93c781e255408f491337c8c7f62
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/Scenes/URP_scene_example/URP_scene_example.unity
+  uploadId: 722202

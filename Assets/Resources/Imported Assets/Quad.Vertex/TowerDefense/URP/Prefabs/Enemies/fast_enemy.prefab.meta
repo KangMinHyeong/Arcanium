@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc0c6d616931ae8448a1e4e40be49b07
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Enemies/fast_enemy.prefab
+  uploadId: 722202

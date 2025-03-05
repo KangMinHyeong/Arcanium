@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa07c3910209f0b4e8a5c4ba79568abb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Tiles/tile_main_quarter.prefab
+  uploadId: 722202

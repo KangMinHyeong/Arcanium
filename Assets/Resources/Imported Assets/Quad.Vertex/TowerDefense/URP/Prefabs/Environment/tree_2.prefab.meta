@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0161ed39e06af7041b431e22f20f664b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/tree_2.prefab
+  uploadId: 722202

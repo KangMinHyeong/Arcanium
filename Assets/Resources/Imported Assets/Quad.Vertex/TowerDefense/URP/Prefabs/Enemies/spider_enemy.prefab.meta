@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fec7ea3c21e087b4dad4d248037c2bfb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Enemies/spider_enemy.prefab
+  uploadId: 722202

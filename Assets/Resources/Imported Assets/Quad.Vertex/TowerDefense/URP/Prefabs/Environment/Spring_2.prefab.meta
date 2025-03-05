@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f29d0fe4a208796479fbac24ba1683af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Spring_2.prefab
+  uploadId: 722202

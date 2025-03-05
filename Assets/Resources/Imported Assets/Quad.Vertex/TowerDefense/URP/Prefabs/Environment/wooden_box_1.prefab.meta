@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6467648e2642284d9be21baa6aa457a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/wooden_box_1.prefab
+  uploadId: 722202

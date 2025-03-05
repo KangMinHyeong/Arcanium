@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2dd23a59484a3454bac9bf57d52ff141
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/harpoon/building_4_harpoonBase.prefab
+  uploadId: 722202

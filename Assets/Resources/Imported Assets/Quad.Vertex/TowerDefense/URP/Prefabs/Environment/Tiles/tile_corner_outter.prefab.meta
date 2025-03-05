@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd79a7ce4bae0714681257e048405689
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Environment/Tiles/tile_corner_outter.prefab
+  uploadId: 722202

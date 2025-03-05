@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abf09a9cd51543e4686f4d72eecc6fa9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 275328
+  packageName: Steampunk Tower Defense pack
+  packageVersion: 1.0
+  assetPath: Assets/Quad.Vertex/TowerDefense/URP/Prefabs/Towers/crossbow/tower_crossbow.prefab
+  uploadId: 722202
