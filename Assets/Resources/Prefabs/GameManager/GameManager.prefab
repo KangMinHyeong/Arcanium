@@ -241,3 +241,8 @@ MonoBehaviour:
   WeaponDataTable: {fileID: 4900000, guid: 853c7b7c78c77004bb57218613edd9dd, type: 3}
   SkillDataTable: {fileID: 4900000, guid: ae87fb64f289b7943add722b4ea7d7cb, type: 3}
   LoadingUI: {fileID: 8491149151305641314}
+  TextVFX:
+  - {fileID: 5339739117810204696, guid: 26e1cb216e3635e4a820f58a1118d6b9, type: 3}
+  - {fileID: 8099996740612524614, guid: 141e1779869c79845bd243610f187f47, type: 3}
+  - {fileID: 3337905222051100615, guid: 1244a9e4f6193654989497ad418a287b, type: 3}
+  EnhanceVFX: {fileID: 409799578591065951, guid: efd0ab55a8a358849875bea8a3e87ec2, type: 3}

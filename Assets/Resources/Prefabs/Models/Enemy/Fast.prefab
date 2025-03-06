@@ -60,6 +60,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1cd314e69fe82a7428e7f937ff5fa9de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  DeadVFX: {fileID: 8194992990867289339, guid: 99bc28c0d45f51c4fbac01080b73edc7, type: 3}
   KillDelayTime: 1.65
 --- !u!1 &3367277018278075422
 GameObject:
@@ -135,7 +136,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1986109866237361660
 RectTransform:
   m_ObjectHideFlags: 0
@@ -279,6 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde5c70be22377342ae3103283ab9f60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  HPUI: {fileID: 4948887125915764844}
   HPImage: {fileID: 1497803130797412219}
   barSpeed: 1.25
 --- !u!1 &7617853488071853742
