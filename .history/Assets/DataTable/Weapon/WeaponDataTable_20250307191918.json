@@ -1,0 +1,64 @@
+{
+    "weapons": 
+    [
+        { "WeaponID": 0, 
+          "Weaponname": "Arrow", 
+          "WeaponType" : "Targeting Projectile",
+          "WeaponInformation" : "Fire arrows by targeting in order at enemies within the designated range.",
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Arrow",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Arrow_OnlyModel",
+          "Cost": 40,
+          "EnhanceCostLevel_2": 20,
+          "EnhanceCostLevel_3": 30,
+          "WeaponATK": 5,
+          "WeaponATKSpeed": 1.5,
+          "WeaponRange": 13.0,
+          "WeaponRotation": true
+        },
+
+        { "WeaponID": 1, 
+          "Weaponname": "Beam", 
+          "WeaponType" : "Fixed Laser",
+          "WeaponInformation" : "Fires a laser at enemies within the attack range.",
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Beam",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Beam_OnlyModel",
+          "Cost": 40,
+          "EnhanceCostLevel_2": 20,
+          "EnhanceCostLevel_3": 30,
+          "WeaponATK": 2,
+          "WeaponATKSpeed": 0.5,
+          "WeaponRange": 25.0,
+          "WeaponRotation": false
+        },
+
+        { "WeaponID": 2, 
+          "Weaponname": "Rolling", 
+          "WeaponType": "Continuous", 
+          "WeaponInformation" : "Summon a magic sphere that rotates the tower to attack enemies.",
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Rolling",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Rolling_OnlyModel",
+          "Cost": 30,
+          "EnhanceCostLevel_2": 20,
+          "EnhanceCostLevel_3": 30,
+          "WeaponATK": 2,
+          "WeaponATKSpeed": 2,
+          "WeaponRange": 13.0,
+          "WeaponRotation": true
+        },
+
+        { "WeaponID": 3, 
+          "Weaponname": "Fan", 
+          "WeaponType": "Debuff", 
+          "WeaponInformation" : "Summon a magic sphere that rotates the tower to attack enemies.",
+          "WeaponPrefabPath": "Prefabs/Models/Weapon/Fan",
+          "WeaponModelPrefabPath": "Prefabs/Models/Weapon/Model/Fan_OnlyModel",
+          "Cost": 25,
+          "EnhanceCostLevel_2": 20,
+          "EnhanceCostLevel_3": 30,
+          "WeaponATK": 0,
+          "WeaponATKSpeed": 2,
+          "WeaponRange": 25.0,
+          "WeaponRotation": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Stages": 
+    [
+        { "StageID": 0, 
+          "StageGold": 100, 
+          "StageHP": 30
+        },
+
+        { "StageID": 1, 
+          "StageGold": 100, 
+          "StageHP": 30
+        }
+
+        
+    ]
+}
