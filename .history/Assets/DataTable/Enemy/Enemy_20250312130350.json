@@ -1,0 +1,26 @@
+{
+    "EnemyInfos": 
+    [
+        { "EnemyID": 0, 
+          "EnemyInformation" : "적당한 체력과 느린속도를 가진 몬스터",
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Basic",
+          "EnemyImagePath" : "UI/Models/Enemy/Basic",
+          "EnemyName": "Basic", 
+          "EnemyHP" : 30,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 0.75,
+          "EnemyGold" : 5
+        },
+
+        { "EnemyID": 1, 
+          "EnemyInformation" : "약한 체력을 가졌지만 빠른 스피드를 가진 몬스터",
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Fast",
+          "EnemyImagePath" : "UI/Models/Enemy/Basic",
+          "EnemyName": "Fast", 
+          "EnemyHP" : 10,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 1.85,
+          "EnemyGold" : 10
+        }
+    ]
+}
