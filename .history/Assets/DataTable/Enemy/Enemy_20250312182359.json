@@ -1,0 +1,37 @@
+{
+    "EnemyInfos": 
+    [
+        { "EnemyID": 0, 
+          "EnemyInformation" : "A monster with moderate stamina and slow speed.",
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Basic",
+          "EnemyImagePath" : "UI/Models/Enemy/Basic",
+          "EnemyName": "Basic", 
+          "EnemyHP" : 30,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 0.75,
+          "EnemyGold" : 5
+        },
+
+        { "EnemyID": 1, 
+          "EnemyInformation" : "A monster with weak stamina but fast speed.",
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Fast",
+          "EnemyImagePath" : "UI/Models/Enemy/Fast",
+          "EnemyName": "Fast", 
+          "EnemyHP" : 10,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 1.85,
+          "EnemyGold" : 10
+        },
+
+        { "EnemyID": 2, 
+          "EnemyInformation" : "A monster with slow speed but very large health.",
+          "EnemyPrefabPath": "Prefabs/Models/Enemy/Huge",
+          "EnemyImagePath" : "UI/Models/Enemy/Huge",
+          "EnemyName": "Fast", 
+          "EnemyHP" : 10,
+          "EnemyMoveTime": 1.0,
+          "EnemyMoveSpeed": 1.85,
+          "EnemyGold" : 10
+        }
+    ]
+}
