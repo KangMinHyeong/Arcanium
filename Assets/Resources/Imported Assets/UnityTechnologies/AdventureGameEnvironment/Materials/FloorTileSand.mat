@@ -138,9 +138,9 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_FA669E8D: {r: 0, g: 0, b: 0, a: 0}
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 0.6819406, g: 0.62542796, b: 0.56154406, a: 1}
     - _BorderColor: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.68194056, g: 0.62542796, b: 0.56154406, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 1, g: 1, b: 1, a: 1}
     - _SColor: {r: 0.3833672, g: 0.2647059, b: 0.5294118, a: 1}
