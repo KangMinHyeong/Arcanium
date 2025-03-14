@@ -1,0 +1,70 @@
+{
+    "Waves": 
+    [
+        { "WaveGroupID": 0, 
+          "WaveNum": 1, 
+          "EnemyID" : 0,
+          "EnemyNumber": 8,
+          "WaveRate" : 1.0,
+          "NextWaveTime": 25.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 2, 
+          "EnemyID" : 0,
+          "EnemyNumber": 15,
+          "WaveRate" : 0.75,
+          "NextWaveTime": 25.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 3, 
+          "EnemyID" : 3,
+          "EnemyNumber": 8,
+          "WaveRate" : 0.75,
+          "NextWaveTime": 25.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 4, 
+          "EnemyID" : 1,
+          "EnemyNumber": 3,
+          "WaveRate" : 1.0,
+          "NextWaveTime": 25.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 4, 
+          "EnemyID" : 3,
+          "EnemyNumber": 10,
+          "WaveRate" : 0.5,
+          "NextWaveTime": 0
+        },
+        
+        { "WaveGroupID": 0, 
+          "WaveNum": 5, 
+          "EnemyID" : 3,
+          "EnemyNumber": 10,
+          "WaveRate" : 0.4,
+          "NextWaveTime": -1.0
+        },
+
+        { "WaveGroupID": 0, 
+          "WaveNum": 5, 
+          "EnemyID" : 2,
+          "EnemyNumber": 2,
+          "WaveRate" : 5.0,
+          "NextWaveTime": -1.0
+        },
+  
+      
+        { "WaveGroupID": 1, 
+          "WaveNum": 1, 
+          "EnemyID" : 1,
+          "EnemyNumber": 5,
+          "WaveRate" : 1.0,
+          "NextWaveTime": -1.0
+        }
+
+    ]
+}

@@ -128,7 +128,7 @@ MonoBehaviour:
   WaveCountText: {fileID: 3749151530732662099}
   EnemyInformation: {fileID: 7438902742481069856}
   AddInfoUI: {fileID: 5626715505935701804, guid: aaf2fe2ba7e20ba4fabc3e9b74e32bd1, type: 3}
-  AddInterval: 75
+  AddInterval: 90
 --- !u!1 &406486438437254658
 GameObject:
   m_ObjectHideFlags: 0
